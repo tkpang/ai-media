@@ -1,0 +1,8 @@
+[Prompt v1]
+photorealistic anime idol character design sheet, single square 1:1 composition with three panels, left close-up face portrait, center full-body front standing view, right full-body side profile, same character identity across all panels, Asian female idol singer, amber eyes, long dark brown hair with subtle cyan gradient tips, modern sailor-inspired stage outfit with cropped white jacket, navy pleated skirt, black fitted inner top, thigh-high socks, silver star hairpin and moon pendant choker, pure white background #FFFFFF, studio lighting, ultra detailed skin and fabric, sharp focus, high detail, no text, no logo, no watermark
+
+[Prompt v2]
+photorealistic anime style, professional idol model sheet, 1:1 square canvas, three-view layout: face close-up + full body front + side profile full body, consistent face and outfit, clean white seamless background, cinematic soft key light plus rim light, realistic anime skin texture, natural proportions, Asian female performer age 20, confident gentle expression, detailed costume stitching and folds, highly detailed eyes and hair strands, no extra limbs, no text, no watermark
+
+[Negative]
+lowres, blurry, bad anatomy, distorted face, extra limbs, duplicate person, inconsistent costume, cluttered background, colored background, logo, watermark, text

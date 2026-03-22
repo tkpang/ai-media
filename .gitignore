@@ -6,7 +6,8 @@
 .env.production
 
 # Output files (generated media)
-outputs/
+outputs/*
+!outputs/characters/
 *.png
 *.jpg
 *.jpeg
@@ -19,6 +20,13 @@ outputs/
 # Except example/test images
 !examples/*.png
 !examples/*.jpg
+
+# Except character design files (approved for GitHub)
+!outputs/characters/**/*.png
+!outputs/characters/**/*.jpg
+!outputs/characters/**/*.md
+!outputs/characters/**/*.txt
+!outputs/characters/**/*.json
 
 # Cache
 cache/
