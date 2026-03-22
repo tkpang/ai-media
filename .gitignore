@@ -1,0 +1,87 @@
+# AI Media Workspace - Git Ignore Rules
+
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.production
+
+# Output files (generated media)
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+*.webm
+*.avi
+*.mov
+
+# Except example/test images
+!examples/*.png
+!examples/*.jpg
+
+# Cache
+cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+cost_log.json
+cost_data.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# API response samples (may contain sensitive data)
+api_samples/
+test_outputs/
+
+# Credentials and secrets
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# Paperclip agent data
+agents/
+
+# Knowledge base (internal)
+knowledge/
+
+# Cost reports
+cost_report.csv
